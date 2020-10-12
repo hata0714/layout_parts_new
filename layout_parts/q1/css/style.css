@@ -8,8 +8,8 @@
 } 
 
 .q1__content {
-  width: 900px;
-  margin: 0 auto;
+  width: 940px;
+  margin: 0px auto;
   padding: 20px;
   background-color: #eff3f4;
   box-sizing: border-box;
@@ -34,4 +34,5 @@
 .q1__content .q1__content__box:first-child {
   margin-left: 0px;
 }
+
 /* 回答はここに書いてね */
