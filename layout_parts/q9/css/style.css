@@ -13,26 +13,21 @@
   position: absolute;
   content: "";
   right: 0;
-  left: 0;
+  left: -440px;
   width: 0;
   height: 0;
   margin: auto;
+  border:20px solid;
 }
 
 .q9-border:before {
   top: 157px;
-  left: -440px;
-  border-style: solid;
-  border-color: #222 transparent transparent;
-  border-width: 20px;
+  border-color: #222  transparent transparent;
 }
 
 .q9-border:after {
   top: 150px;
-  left: -440px;
-  border-style: solid;
-  border-color: #fff transparent transparent;
-  border-width: 20px;
+  border-color: #fff  transparent transparent;
 }
 
 .text {
